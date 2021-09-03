@@ -1,6 +1,6 @@
 ## My name is Kings
 
-#### Most of the I create shit scripts mostly for the QBCore FiveM Framework. I mainly have no clue what i'm doing I copied this readme template from AJ 
+#### Most of the I modify shit scripts mostly for the QBCore FiveM Framework. I mainly have no clue what i'm doing I copied this readme template from AJ 
 
 ---------------------
 
