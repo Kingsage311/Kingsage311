@@ -1,16 +1,13 @@
-### Hi there 👋
+## My name is Kings
 
-<!--
-**Kingsage311/Kingsage311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Most of the I create shit scripts mostly for the QBCore FiveM Framework. I mainly have no clue what i'm doing I copied this readme template from AJ 
 
-Here are some ideas to get you started:
+---------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kingsage311&repo=alt-qb-phone&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kingsage311&repo=otaku_vehicleshop&theme=dracula">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kingsage311&count_private=true&show_icons=true&theme=dracula&layout=compact&hide_title=true&hide_rank=false">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingsage311&layout=compact&theme=dracula">
+</p>
