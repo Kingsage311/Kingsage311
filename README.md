@@ -2,7 +2,8 @@
 
 #### Mostly I modify shit scripts mostly for the QBCore FiveM Framework. I mainly have no clue what i'm doing I copied this readme template from AJ 
 
-## Support Discord: https://discord.gg/aCFPpcKEGk
+## <h3 align='center'>For more support or to see more of my resources you can join my <a href='https://discord.gg/aCFPpcKEGk'>discord</a></h3>
+<p align='center'>
 
 ---------------------
 
